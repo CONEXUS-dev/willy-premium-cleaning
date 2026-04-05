@@ -1,0 +1,45 @@
+WILLY'S WEBSITE - SUPER SIMPLE INSTRUCTIONS!
+
+🎉 YOUR NEW WEBSITE IS READY! 🎉
+
+STEP 1: TURN IT ON (5 minutes)
+1. Go to: github.com/CONEXUS-dev/willy-premium-cleaning
+2. Tap Settings (⚙️ top right)
+3. Tap "Pages" on the left
+4. Tap "Save" button
+5. Wait 3 minutes
+6. GO TO: https://CONEXUS-dev.github.io/willy-premium-cleaning/
+7. SEE YOUR WEBSITE! 🎉
+
+STEP 2: HOW TO CHANGE STUFF
+1. Go back to github.com/CONEXUS-dev/willy-premium-cleaning
+2. Tap "public" folder
+3. Tap any file to change it
+4. Tap pencil ✏️ to edit
+5. Type your changes
+6. Tap "Commit changes"
+7. DONE! Website updates!
+
+WHAT YOU CAN CHANGE:
+- Phone numbers
+- Email address  
+- Services you offer
+- Prices
+- Photos (in images folder)
+
+💰 IMPORTANT: 100% FREE FOREVER!
+- No payments ever
+- No monthly fees
+- Completely free!
+
+🆘 NEED HELP? CALL ME!
+[Your Phone Number]
+I'm here to help anytime - FREE!
+
+📂 SAVE THIS INFO:
+Website: https://CONEXUS-dev.github.io/willy-premium-cleaning/
+GitHub: github.com/CONEXUS-dev/willy-premium-cleaning
+My phone: [Your Phone Number]
+
+YOU'RE ALL SET! 🌟
+Your business looks great online!
