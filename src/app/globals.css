@@ -3,6 +3,8 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --willy-blue: #1e40af;
+  --willy-gold: #fbbf24;
 }
 
 @theme inline {
@@ -12,15 +14,23 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+}
+
+.willy-gradient {
+  background: linear-gradient(135deg, var(--willy-blue) 0%, #3b82f6 100%);
+}
+
+.willy-text-gradient {
+  background: linear-gradient(
+    135deg,
+    var(--willy-blue) 0%,
+    var(--willy-gold) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
